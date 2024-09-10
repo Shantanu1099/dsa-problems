@@ -34,7 +34,7 @@ vi nums = { 3, 4, 5, 6 , 5, 6, 3};
 
 
 // Pair
-	// pair<int , string>pp;
+	// pair<int , string> pp;
 	// pp = make_pair(4, "JBCKb");
 	// cout<<pp.first<<" "<<pp.second<<endl;
 	// pair<int, int> p[2];

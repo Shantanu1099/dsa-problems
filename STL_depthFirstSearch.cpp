@@ -10,7 +10,7 @@ bool vis[N];
 // //every section has a definition
 // void dfs(int vertex){
 //     /* Take action on vertex after entering the vertex */
-//     //if(vis[vertex]) return; //this can be written if inside for we havent written vis child condn
+//     //if(vis[vertex]) return; //this can be written if inside for we haven't written vis child condn
 //     cout<<vertex<<"\n";
 //     vis[vertex] = true;
 //     for(int child:g[vertex]){
